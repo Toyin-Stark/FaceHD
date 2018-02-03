@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">Indir</string>
+  
+  
+  <string name="permissionPositive">Tamam</string>
+  
+  
+  <string name="permissionNegative">Iptal etmek</string>
+  
+  
+  <string name="permissionMessage">Bu uygulama, bu izin olmadan dÃ¼zgÃ¼n Ã§alismayabilir</string>
+  
+  
+  <string name="permissionTitle">Izin gerekli</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">Facebook\'a Giris Yap</string>
+  
+  
+  <string name="title_2">Kullanimi kolay</string>
+  
+  
+  <string name="title_3">Hizli indirme</string>
+  
+  
+  <string name="error">Indirme hatasi</string>
+  
+  
+  <string name="downloadVideo">Video Indiriliyor</string>
+  
+  
+  <string name="downloadPhoto">Fotograf Indiriliyor</string>
+  
+  
+  <string name="saveVideo">Video indir</string>
+  
+  
+  <string name="savePhoto">Fotografi Indir</string>
+  
+  
+  <string name="downloadStart">Indirme basladi</string>
+  
+  
+  <string name="dialogVideoMessage">Bu videoyu izleyin veya indirin</string>
+  
+  
+  <string name="dialogJambVideo">Ne yapmak istersin?</string>
+  
+  
+  <string name="dialogPhotoMessage">Bu fotografi görüntüleyin veya indirin</string>
+  
+  
+  <string name="dialogJambPhoto">Ne yapmak istersin?</string>
+  
+  
+  <string name="dialogYes">Indir</string>
+  
+  
+  <string name="dialogNoVideo">Oyun</string>
+  
+  
+  <string name="dialogNoPhoto">Görünüm</string>
+  
+  
+  <string name="dialogCancel">Iptal etmek</string>
+  
+  
+  <string name="complete">Indirme tamamlandi</string>
+  
+  
+  <string name="start">Indirilmesi</string>
+  
+  
+  <string name="wait">LÃ¼tfen bekle...</string>
+  
+  
+  <string name="step1">facebook\'a giris</string>
+  
+  
+  <string name="step2">herhangi bir videoda indirme dÃ¼gmesine basin</string>
+  
+  
+  <string name="step3">Video indirilecek</string>
+  
+  
+  <string name="fab_set">Duvar kagidi olarak kullan</string>
+  
+  
+  <string name="fab_view">Fotografi gÃ¶ster</string>
+  
+  
+  <string name="fab_view_video">Video izle</string>
+  
+  
+  <string name="fab_reposte">Yeniden yayinla</string>
+  
+  
+  <string name="fab_share">Pay</string>
+  
+  
+  <string name="rate">oran</string>
+  
+  
+  <string name="options_image">Fotograf</string>
+  
+  
+  <string name="options_video">Video</string>
+  
+  
+  <string name="done">Duvar kagidi seti</string>
+  
+  
+  <string name="scroll">Yukari kaydirmak</string>
+  
+  
+  <string name="lite_download">Indirilenler</string>
+  
+  
+  <string name="lite_rate">oran</string>
+  
+  
+  <string name="lite_share">Pay</string>
+  
+  
+  <string name="foto_finish">Fotograf tamamlandiginda tamamlandi</string>
+  
+  
+  <string name="video_finish">Video tamamlandi tamamlandi</string>
+  
+
+</resources>

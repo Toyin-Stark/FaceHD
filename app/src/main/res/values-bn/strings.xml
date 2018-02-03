@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">ডাউনলোডগুলি</string>
+  
+  
+  <string name="permissionPositive">ঠিক আছে</string>
+  
+  
+  <string name="permissionNegative">বাতিল</string>
+  
+  
+  <string name="permissionMessage">এই অনুমতি ছাড়া এই অ্যাপ্লিকেশনটি সঠিকভাবে কাজ করতে পারে না</string>
+  
+  
+  <string name="permissionTitle">অনুমতি প্রয়োজন</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">ফেসবুকে লগইন করুন</string>
+  
+  
+  <string name="title_2">ব্যবহার করার জন্য সহজ</string>
+  
+  
+  <string name="title_3">দ্রুত ডাউনলোড</string>
+  
+  
+  <string name="error">ডাউনলোড ত্রুটি</string>
+  
+  
+  <string name="downloadVideo">ভিডিও ডাউনলোড</string>
+  
+  
+  <string name="downloadPhoto">ফটো ডাউনলোড</string>
+  
+  
+  <string name="saveVideo">ভিডিও ডাউনলোড করুন</string>
+  
+  
+  <string name="savePhoto">ফটো ডাউনলোড করুন</string>
+  
+  
+  <string name="downloadStart">ডাউনলোড শুরু হয়েছে</string>
+  
+  
+  <string name="dialogVideoMessage">এই ভিডিওটি দেখুন বা ডাউনলোড করুন</string>
+  
+  
+  <string name="dialogJambVideo">আপনি কি করতে চান?</string>
+  
+  
+  <string name="dialogPhotoMessage">এই ছবি দেখুন বা ডাউনলোড করুন</string>
+  
+  
+  <string name="dialogJambPhoto">আপনি কি করতে চান?</string>
+  
+  
+  <string name="dialogYes">ডাউনলোড</string>
+  
+  
+  <string name="dialogNoVideo">খেলা</string>
+  
+  
+  <string name="dialogNoPhoto">দৃশ্য</string>
+  
+  
+  <string name="dialogCancel">বাতিল</string>
+  
+  
+  <string name="complete">ডাউনলোড শেষ</string>
+  
+  
+  <string name="start">ডাউনলোড হচ্ছে</string>
+  
+  
+  <string name="wait">Loadingâ € |</string>
+  
+  
+  <string name="step1">ফফেসবুকে লগইন করুন</string>
+  
+  
+  <string name="step2">কোনও ভিডিওর ডাউনলোড বোতামটি টিপুন</string>
+  
+  
+  <string name="step3">ভিডিওটি আপনার ডিভাইসে ডাউনলোড করা হবে</string>
+  
+  
+  <string name="fab_set">সেট ওয়ালপেপার</string>
+  
+  
+  <string name="fab_view">ছবি দেখ</string>
+  
+  
+  <string name="fab_view_video">ভিডিও দেখুন</string>
+  
+  
+  <string name="fab_reposte">পুনরায় পোস্ট করুন</string>
+  
+  
+  <string name="fab_share">ভাগ</string>
+  
+  
+  <string name="rate">হার</string>
+  
+  
+  <string name="options_image">ছবির বিকল্পগুলি</string>
+  
+  
+  <string name="options_video">ভিডিও বিকল্পগুলি</string>
+  
+  
+  <string name="done">ওয়ালপেপার সেট</string>
+  
+  
+  <string name="scroll">স্ক্রোল</string>
+  
+  
+  <string name="lite_download">ডাউনলোডগুলি</string>
+  
+  
+  <string name="lite_rate">হার</string>
+  
+  
+  <string name="lite_share">ভাগ</string>
+  
+  
+  <string name="foto_finish">ছবি ডাউনলোড সম্পূর্ণ</string>
+  
+  
+  <string name="video_finish">ভিডিও ডাউনলোড সম্পূর্ণ</string>
+  
+
+</resources>

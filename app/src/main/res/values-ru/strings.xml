@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;fab_reposte=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">Скачать</string>
+  
+  
+  <string name="permissionPositive">ОК</string>
+  
+  
+  <string name="permissionNegative">Отмена</string>
+  
+  
+  <string name="permissionMessage">Это приложение не может работать должным образом без этого разрешения</string>
+  
+  
+  <string name="permissionTitle">Требуется разрешение</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">Войти в Facebook</string>
+  
+  
+  <string name="title_2">Простой в использовании</string>
+  
+  
+  <string name="title_3">Быстрая загрузка</string>
+  
+  
+  <string name="error">Ошибка загрузки</string>
+  
+  
+  <string name="downloadVideo">Загрузка видео</string>
+  
+  
+  <string name="downloadPhoto">Загрузка фотографии</string>
+  
+  
+  <string name="saveVideo">Скачать видео</string>
+  
+  
+  <string name="savePhoto">Загрузить фото</string>
+  
+  
+  <string name="downloadStart">Загрузка началась</string>
+  
+  
+  <string name="dialogVideoMessage">Смотреть или скачать это видео</string>
+  
+  
+  <string name="dialogJambVideo">Чем бы Вы хотели заняться?</string>
+  
+  
+  <string name="dialogPhotoMessage">Посмотреть или загрузить эту фотографию</string>
+  
+  
+  <string name="dialogJambPhoto">Чем бы Вы хотели заняться?</string>
+  
+  
+  <string name="dialogYes">Скачать</string>
+  
+  
+  <string name="dialogNoVideo">Играть</string>
+  
+  
+  <string name="dialogNoPhoto">Посмотреть</string>
+  
+  
+  <string name="dialogCancel">Отмена</string>
+  
+  
+  <string name="complete">Загрузка завершена</string>
+  
+  
+  <string name="start">загрузка</string>
+  
+  
+  <string name="wait">Пожалуйста, подождите</string>
+  
+  
+  <string name="step1">войти в Facebook</string>
+  
+  
+  <string name="step2">нажмите кнопку загрузки на любом видео</string>
+  
+  
+  <string name="step3">Видео будет загружено</string>
+  
+  
+  <string name="fab_set">Установка обоев</string>
+  
+  
+  <string name="fab_view">Просмотр фотографии</string>
+  
+  
+  <string name="fab_view_video">Смотреть видео</string>
+  
+  
+  <string name="fab_reposte">Repost</string>
+  
+  
+  <string name="fab_share">Поделиться</string>
+  
+  
+  <string name="rate">Оценка скорости</string>
+  
+  
+  <string name="options_image">Параметры фотографии</string>
+  
+  
+  <string name="options_video">Параметры видео</string>
+  
+  
+  <string name="done">Набор обоев</string>
+  
+  
+  <string name="scroll">Прокрутка вверх</string>
+  
+  
+  <string name="lite_download">Загрузки</string>
+  
+  
+  <string name="lite_rate">Оценка скорости</string>
+  
+  
+  <string name="lite_share">Поделиться</string>
+  
+  
+  <string name="foto_finish">Загрузка фотографии завершена</string>
+  
+  
+  <string name="video_finish">Загрузка видео завершена</string>
+  
+
+</resources>

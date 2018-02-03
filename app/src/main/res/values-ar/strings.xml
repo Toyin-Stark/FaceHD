@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">التنزيلات</string>
+  
+  
+  <string name="permissionPositive">حسنا</string>
+  
+  
+  <string name="permissionNegative">إلغاء</string>
+  
+  
+  <string name="permissionMessage">هذا التطبيق لا يمكن أن تعمل بشكل صحيح دون هذا الإذن</string>
+  
+  
+  <string name="permissionTitle">إذن المطلوبة</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">تسجيل الدخول إلى الفيسبوك</string>
+  
+  
+  <string name="title_2">سهلة الاستخدام</string>
+  
+  
+  <string name="title_3">تحميل سريع</string>
+  
+  
+  <string name="error">الخطأ تحميل</string>
+  
+  
+  <string name="downloadVideo">تنزيل الفيديو</string>
+  
+  
+  <string name="downloadPhoto">تحميل الصورة</string>
+  
+  
+  <string name="saveVideo">تحميل الفيديو</string>
+  
+  
+  <string name="savePhoto">تحميل الصورة</string>
+  
+  
+  <string name="downloadStart">بدأ التنزيل</string>
+  
+  
+  <string name="dialogVideoMessage">شاهد هذا الفيديو أو نزله</string>
+  
+  
+  <string name="dialogJambVideo">ماذا تريد ان تفعل؟</string>
+  
+  
+  <string name="dialogPhotoMessage">عرض هذه الصورة أو تنزيلها</string>
+  
+  
+  <string name="dialogJambPhoto">ماذا تريد ان تفعل؟</string>
+  
+  
+  <string name="dialogYes">تحميل</string>
+  
+  
+  <string name="dialogNoVideo">لعب</string>
+  
+  
+  <string name="dialogNoPhoto">رأي</string>
+  
+  
+  <string name="dialogCancel">إلغاء</string>
+  
+  
+  <string name="complete">تم التحميل</string>
+  
+  
+  <string name="start">جارى التحميل</string>
+  
+  
+  <string name="wait">Loadingâ € |</string>
+  
+  
+  <string name="step1">تسجيل الدخول إلى الفيسبوك</string>
+  
+  
+  <string name="step2">اضغط على زر التحميل على أي فيديو</string>
+  
+  
+  <string name="step3">سيتم تنزيل الفيديو</string>
+  
+  
+  <string name="fab_set">تعيين خلفية</string>
+  
+  
+  <string name="fab_view">عرض الصورة</string>
+  
+  
+  <string name="fab_view_video">عرض الفيديو</string>
+  
+  
+  <string name="fab_reposte">بعد ثانية</string>
+  
+  
+  <string name="fab_share">شارك</string>
+  
+  
+  <string name="rate">معدل التطبيق</string>
+  
+  
+  <string name="options_image">خيارات الصورة</string>
+  
+  
+  <string name="options_video">خيارات الفيديو</string>
+  
+  
+  <string name="done">خلفية مجموعة</string>
+  
+  
+  <string name="scroll">التمرير</string>
+  
+  
+  <string name="lite_download">التنزيلات</string>
+  
+  
+  <string name="lite_rate">معدل التطبيق</string>
+  
+  
+  <string name="lite_share">شارك التطبيق</string>
+  
+  
+  <string name="foto_finish">تم حفظ الصورة</string>
+  
+  
+  <string name="video_finish">تم حفظ الفيديو</string>
+  
+
+</resources>

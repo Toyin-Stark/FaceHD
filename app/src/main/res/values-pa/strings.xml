@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="permissionPositive">ਠੀਕ ਹੈ</string>
+  
+  
+  <string name="permissionNegative">ਰੱਦ ਕਰੋ</string>
+  
+  
+  <string name="permissionMessage">ਇਹ ਅਨੁਪ੍ਰਯੋਗ ਇਸ ਅਨੁਮਤੀ ਤੋਂ ਬਿਨਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦਾ</string>
+  
+  
+  <string name="permissionTitle">ਅਧਿਕਾਰ ਦੀ ਲੋੜ ਹੈ</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">ਫੇਸਬੁੱਕ ਤੇ ਲਾਗਇਨ ਕਰੋ</string>
+  
+  
+  <string name="title_2">ਵਰਤਣ ਲਈ ਸਧਾਰਨ</string>
+  
+  
+  <string name="title_3">ਫਾਸਟ ਡਾਉਨਲੋਡ</string>
+  
+  
+  <string name="error">ਡਾਊਨਲੋਡ ਗਲਤੀ</string>
+  
+  
+  <string name="downloadVideo">ਵੀਡੀਓ ਡਾਉਨਲੋਡ ਕਰ ਰਿਹਾ ਹੈ</string>
+  
+  
+  <string name="downloadPhoto">ਫੋਟੋ ਡਾਊਨਲੋਡ ਕਰ ਰਿਹਾ ਹੈ</string>
+  
+  
+  <string name="saveVideo">ਵੀਡੀਓ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="savePhoto">ਫੋਟੋ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="downloadStart">ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋ ਗਈ ਹੈ</string>
+  
+  
+  <string name="dialogVideoMessage">ਇਸ ਵੀਡੀਓ ਨੂੰ ਦੇਖੋ ਜਾਂ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="dialogJambVideo">ਤੁਸੀ ਕੀ ਕਰਨਾ ਚਾਹੋਗੇ?</string>
+  
+  
+  <string name="dialogPhotoMessage">ਇਸ ਫੋਟੋ ਨੂੰ ਦੇਖੋ ਜਾਂ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="dialogJambPhoto">ਤੁਸੀ ਕੀ ਕਰਨਾ ਚਾਹੋਗੇ?</string>
+  
+  
+  <string name="dialogYes">ਡਾਊਨਲੋਡ ਕਰੋ</string>
+  
+  
+  <string name="dialogNoVideo">ਖੇਡੋ</string>
+  
+  
+  <string name="dialogNoPhoto">ਵੇਖੋ</string>
+  
+  
+  <string name="dialogCancel">ਰੱਦ ਕਰੋ</string>
+  
+  
+  <string name="complete">ਡਾਉਨਲੋਡ ਪੂਰਾ ਕਰੋ</string>
+  
+  
+  <string name="start">ਡਾਉਨਲੋਡਿੰਗ</string>
+  
+  
+  <string name="wait">ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ ... |</string>
+  
+  
+  <string name="step1">ਫੇਸਬੁੱਕ ਤੇ ਲਾਗਇਨ ਕਰੋ</string>
+  
+  
+  <string name="step2">ਕਿਸੇ ਵੀ ਵਿਡੀਓ \'ਤੇ ਡਾਉਨਲੋਡ ਬਟਨ ਦਬਾਓ</string>
+  
+  
+  <string name="step3">ਵੀਡੀਓ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾਵੇਗਾ</string>
+  
+  
+  <string name="fab_set">ਵਾਲਪੇਪਰ ਸੈਟ ਕਰੋ</string>
+  
+  
+  <string name="fab_view">ਫੋਟੋ ਵੇਖੋ</string>
+  
+  
+  <string name="fab_view_video">ਵੀਡੀਓ ਵੇਖੋ</string>
+  
+  
+  <string name="fab_reposte">ਰਿਪੋਸਟ</string>
+  
+  
+  <string name="fab_share">ਸਾਂਝਾ ਕਰੋ</string>
+  
+  
+  <string name="rate">ਐਪਲੀਕੇਸ਼ਨ ਰੇਟ ਕਰੋ</string>
+  
+  
+  <string name="options_image">ਫੋਟੋ ਚੋਣਾਂ</string>
+  
+  
+  <string name="options_video">ਵੀਡੀਓ ਵਿਕਲਪ</string>
+  
+  
+  <string name="done">ਵਾਲਪੇਪਰ ਸੈਟ</string>
+  
+  
+  <string name="scroll">ਉੱਪਰ ਸਕ੍ਰੋਲ ਕਰੋ</string>
+  
+  
+  <string name="lite_download">ਡਾਊਨਲੋਡ</string>
+  
+  
+  <string name="lite_rate">ਐਪਲੀਕੇਸ਼ਨ ਰੇਟ ਕਰੋ</string>
+  
+  
+  <string name="lite_share">ਸਾਂਝਾ ਕਰੋ</string>
+  
+  
+  <string name="foto_finish">ਫੋਟੋ ਡਾਊਨਲੋਡ ਪੂਰਾ</string>
+  
+  
+  <string name="video_finish">ਵੀਡੀਓ ਡਾਊਨਲੋਡ ਪੂਰਾ</string>
+  
+
+</resources>

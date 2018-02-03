@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;fab_reposte=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">Télécharger</string>
+  
+  
+  <string name="permissionPositive">D\'accord</string>
+  
+  
+  <string name="permissionNegative">Annuler</string>
+  
+  
+  <string name="permissionMessage">Cette application ne peut pas fonctionner correctement sans cette autorisation</string>
+  
+  
+  <string name="permissionTitle">Permission nécessaire</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">Connectez-vous à Facebook</string>
+  
+  
+  <string name="title_2">Simple à utiliser</string>
+  
+  
+  <string name="title_3">Téléchargement rapide</string>
+  
+  
+  <string name="error">Erreur de téléchargement</string>
+  
+  
+  <string name="downloadVideo">Téléchargement de vidéo</string>
+  
+  
+  <string name="downloadPhoto">Téléchargement de photo</string>
+  
+  
+  <string name="saveVideo">Télécharger la video</string>
+  
+  
+  <string name="savePhoto">Télécharger la photo</string>
+  
+  
+  <string name="downloadStart">Le téléchargement a commencé</string>
+  
+  
+  <string name="dialogVideoMessage">Regardez ou téléchargez cette vidéo</string>
+  
+  
+  <string name="dialogJambVideo">Qu'est-ce que tu aimerais faire?</string>
+  
+  
+  <string name="dialogPhotoMessage">Voir ou télécharger cette photo</string>
+  
+  
+  <string name="dialogJambPhoto">Qu'est-ce que tu aimerais faire?</string>
+  
+  
+  <string name="dialogYes">Télécharger</string>
+  
+  
+  <string name="dialogNoVideo">Jouer</string>
+  
+  
+  <string name="dialogNoPhoto">Vue</string>
+  
+  
+  <string name="dialogCancel">Annuler</string>
+  
+  
+  <string name="complete">Téléchargement complet</string>
+  
+  
+  <string name="start">Téléchargement</string>
+  
+  
+  <string name="wait">Chargement ...</string>
+  
+  
+  <string name="step1">connectez-vous à facebook</string>
+  
+  
+  <string name="step2">appuyez sur le bouton de téléchargement sur n\'importe quelle vidéoo</string>
+  
+  
+  <string name="step3">La vidéo sera téléchargée</string>
+  
+  
+  <string name="fab_set">Définir le papier peint</string>
+  
+  
+  <string name="fab_view">Voir la photo</string>
+  
+  
+  <string name="fab_view_video">Regarder la vidéo</string>
+  
+  
+  <string name="fab_reposte">Repost</string>
+  
+  
+  <string name="fab_share">Partager</string>
+  
+  
+  <string name="rate">Taux d\'application</string>
+  
+  
+  <string name="options_image">Options photo</string>
+  
+  
+  <string name="options_video">Options vidéo</string>
+  
+  
+  <string name="done">Set de papier peint</string>
+  
+  
+  <string name="scroll">Défiler</string>
+  
+  
+  <string name="lite_download">Téléchargements</string>
+  
+  
+  <string name="lite_rate">Taux d\'application</string>
+  
+  
+  <string name="lite_share">Partager</string>
+  
+  
+  <string name="foto_finish">Téléchargement de la photo terminé</string>
+  
+  
+  <string name="video_finish">Téléchargement de la vidéo terminé</string>
+  
+
+</resources>

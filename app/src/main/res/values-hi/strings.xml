@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">डाउनलोड</string>
+  
+  
+  <string name="permissionPositive">ठीक</string>
+  
+  
+  <string name="permissionNegative">रद्द करना</string>
+  
+  
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता</string>
+  
+  
+  <string name="permissionTitle">अनुमति आवश्यक है</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">फेसबुक पर लॉग इन करें</string>
+  
+  
+  <string name="title_2">उपयोग करने के लिए सरल</string>
+  
+  
+  <string name="title_3">फास्ट डाउनलोड</string>
+  
+  
+  <string name="error">डाउनलोड त्रुटि</string>
+  
+  
+  <string name="downloadVideo">वीडियो डाउनलोड करना</string>
+  
+  
+  <string name="downloadPhoto">फोटो डाउनलोड करना</string>
+  
+  
+  <string name="saveVideo">वीडियो डाउनलोड करें</string>
+  
+  
+  <string name="savePhoto">फोटो डाउनलोड करें</string>
+  
+  
+  <string name="downloadStart">डाउनलोड शुरू हो गया है</string>
+  
+  
+  <string name="dialogVideoMessage">इस वीडियो को देखें या डाउनलोड करें</string>
+  
+  
+  <string name="dialogJambVideo">आप क्या करना पसंद करेंगे?</string>
+  
+  
+  <string name="dialogPhotoMessage">इस तस्वीर को देखें या डाउनलोड करें</string>
+  
+  
+  <string name="dialogJambPhoto">आप क्या करना पसंद करेंगे?</string>
+  
+  
+  <string name="dialogYes">डाउनलोड</string>
+  
+  
+  <string name="dialogNoVideo">प्ले</string>
+  
+  
+  <string name="dialogNoPhoto">राय</string>
+  
+  
+  <string name="dialogCancel">रद्द करना</string>
+  
+  
+  <string name="complete">डाउनलोड सम्पन्न हुआ</string>
+  
+  
+  <string name="start">डाउनलोड कर रहा है</string>
+  
+  
+  <string name="wait">कृपया प्रतीक्षा करें</string>
+  
+  
+  <string name="step1">फेसबुक पर लॉगइन करें</string>
+  
+  
+  <string name="step2">किसी भी वीडियो पर डाउनलोड बटन दबाएं</string>
+  
+  
+  <string name="step3">वीडियो डाउनलोड किया जाएगा</string>
+  
+  
+  <string name="fab_set">वालपेपर सेट करें</string>
+  
+  
+  <string name="fab_view">फ़ोटो देखें</string>
+  
+  
+  <string name="fab_view_video">वीडियो देखेंा</string>
+  
+  
+  <string name="fab_reposte">पोस्ट</string>
+  
+  
+  <string name="fab_share">शेयर</string>
+  
+  
+  <string name="rate">एप्लिकेशन को रेट करें</string>
+  
+  
+  <string name="options_image">फोटो विकल्प</string>
+  
+  
+  <string name="options_video">वीडियो विकल्प</string>
+  
+  
+  <string name="done">वॉलपेपर सेट</string>
+  
+  
+  <string name="scroll">ऊपर स्क्रॉल करें</string>
+  
+  
+  <string name="lite_download">डाउनलोड</string>
+  
+  
+  <string name="lite_rate">एप्लिकेशन को रेट करें</string>
+  
+  
+  <string name="lite_share">शेयर</string>
+  
+  
+  <string name="foto_finish">फोटो डाउनलोड पूर्ण</string>
+  
+  
+  <string name="video_finish">वीडियो डाउनलोड पूर्ण</string>
+  
+
+</resources>

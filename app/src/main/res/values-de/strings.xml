@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Fb Video Downloader</string>
+  
+  
+  <string name="downloads">Herunterladen</string>
+  
+  
+  <string name="permissionPositive">OK</string>
+  
+  
+  <string name="permissionNegative">Stornieren</string>
+  
+  
+  <string name="permissionMessage">Diese App kann ohne diese Berechtigung nicht ordnungsgemäß funktionieren</string>
+  
+  
+  <string name="permissionTitle">Erlaubnis benötigt</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="title_1">Auf Facebook anmelden</string>
+  
+  
+  <string name="title_2">Einfach zu benutzen</string>
+  
+  
+  <string name="title_3">Schneller Download</string>
+  
+  
+  <string name="error">Download Fehler</string>
+  
+  
+  <string name="downloadVideo">Video herunterladen</string>
+  
+  
+  <string name="downloadPhoto">Foto herunterladen</string>
+  
+  
+  <string name="saveVideo">Video herunterladen</string>
+  
+  
+  <string name="savePhoto">Foto herunterladen</string>
+  
+  
+  <string name="downloadStart">Der Download hat begonnen</string>
+  
+  
+  <string name="dialogVideoMessage">Sieh dir dieses Video an oder lade es herunter</string>
+  
+  
+  <string name="dialogJambVideo">Was würdest du gern tun?</string>
+  
+  
+  <string name="dialogPhotoMessage">Sehen Sie sich dieses Foto an oder laden Sie es herunter</string>
+  
+  
+  <string name="dialogJambPhoto">Was würdest du gern tun?</string>
+  
+  
+  <string name="dialogYes">Herunterladen</string>
+  
+  
+  <string name="dialogNoVideo">abspielen</string>
+  
+  
+  <string name="dialogNoPhoto">Aussicht</string>
+  
+  
+  <string name="dialogCancel">Stornieren</string>
+  
+  
+  <string name="complete">Download abgeschlossen</string>
+  
+  
+  <string name="start">wird heruntergeladen</string>
+  
+  
+  <string name="wait">Laden ...</string>
+  
+  
+  <string name="step1">Anmeldung bei Facebook</string>
+  
+  
+  <string name="step2">Drücke die Download-Taste auf einem beliebigen Video</string>
+  
+  
+  <string name="step3">Das Video wird heruntergeladen</string>
+  
+  
+  <string name="fab_set">Tapete</string>
+  
+  
+  <string name="fab_view">Foto anzeigen</string>
+  
+  
+  <string name="fab_view_video">Video ansehen</string>
+  
+  
+  <string name="fab_reposte">Umbuchung</string>
+  
+  
+  <string name="fab_share">Aktie</string>
+  
+  
+  <string name="rate">Bewertung</string>
+  
+  
+  <string name="options_image">Fotooptionen</string>
+  
+  
+  <string name="options_video">Videooptionen</string>
+  
+  
+  <string name="done">Tapeten-Set</string>
+  
+  
+  <string name="scroll">Hochscrollen</string>
+  
+  
+  <string name="lite_download">Herunterladen</string>
+  
+  
+  <string name="lite_rate">Bewertung</string>
+  
+  
+  <string name="lite_share">Aktie</string>
+  
+  
+  <string name="foto_finish">Fotodownload abgeschlossen</string>
+  
+  
+  <string name="video_finish">Video-Download abgeschlossen</string>
+  
+
+</resources>
